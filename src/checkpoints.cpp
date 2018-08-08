@@ -47,7 +47,7 @@ namespace Checkpoints
 
     static MapCheckpoints mapCheckpointsTestnet =
         boost::assign::map_list_of
-        (   0, uint256("0x"))
+        (   0, uint256("0x26d8f556cb0196e00c56288c95f1c86b51e2b376edce37623194afe54b196a88"))
         ;
     static const CCheckpointData dataTestnet = {
         &mapCheckpointsTestnet,
